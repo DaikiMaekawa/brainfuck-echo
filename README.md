@@ -1,5 +1,13 @@
 # brainfuck-echo
 
+Echo back can be simplified like this in Brainfuck.
+
+```
+,[.,]
+```
+
+I've never seen such a really short echo back program before. Definitely, Brainfuck was born to do that. :)
+
 ## Install Brainfuck
 
 e.g. From Debian package
@@ -13,6 +21,8 @@ $ sudo apt-get install bf
 ```sh
 $ bf echo.bf
 ```
+
+and then, make sure you'll type something.
 
 ## License
 
