@@ -1,5 +1,13 @@
 # brainfuck-echo
 
+## Install Brainfuck
+
+e.g. From Debian package
+
+```sh
+$ sudo apt-get install bf
+```
+
 ## Usage
 
 ```sh
