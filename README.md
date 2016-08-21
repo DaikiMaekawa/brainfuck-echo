@@ -6,7 +6,7 @@ Echo back can be simplified like this in Brainfuck.
 ,[.,]
 ```
 
-I've never seen such a really short echo back program before. Definitely, Brainfuck was born to do that. :)
+I've never seen such a really short echo back program before. Definitely, Brainfuck was born to do that. ;-)
 
 ## Install Brainfuck
 
