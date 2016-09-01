@@ -26,6 +26,6 @@ and then, make sure you'll type something.
 
 ## License
 
-Copyright (c) 2016, Daiki Maekawa. (MIT License)
+Copyright (c) 2015, Daiki Maekawa. (MIT License)
 
 See LICENSE for more info.
